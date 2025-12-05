@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "NLP using PyTorch",
+			"path": "."
+		},
+		{
+			"name": "sentiment-analysis-dataset",
+			"path": "../../../Downloads/sentiment-analysis-dataset"
+		}
+	],
+	"settings": {}
+}
