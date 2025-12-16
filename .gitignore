@@ -13,5 +13,4 @@ data/
 # Large data files
 *.pkl
 sentiment-analysis-final/data/
-sentiment-analysis-final/data.zip
 sentiment-analysis-dataset/training.1600000.processed.noemoticon.csv
