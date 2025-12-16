@@ -1,7 +1,10 @@
 pdfs/
 .env
 .venv
-
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
 NLP_Notebooks/
 learning_material/
