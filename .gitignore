@@ -1,7 +1,7 @@
 pdfs/
 .env
 .venv
-__pycache__/
+sentiment-analysis-final/__pycache__/
 *.pyc
 *.pyo
 *.pyd
@@ -14,3 +14,5 @@ data/
 *.pkl
 sentiment-analysis-final/data/
 sentiment-analysis-dataset/training.1600000.processed.noemoticon.csv
+sentiment-analysis-final/word2vec_tokens_data/
+sentiment-analysis-final/word2vec_tokens_data.zip
